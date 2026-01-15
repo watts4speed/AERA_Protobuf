@@ -3,10 +3,10 @@
 //_/_/ AERA
 //_/_/ Autocatalytic Endogenous Reflective Architecture
 //_/_/ 
-//_/_/ Copyright (c) 2018-2025 Jeff Thompson
-//_/_/ Copyright (c) 2018-2025 Kristinn R. Thorisson
-//_/_/ Copyright (c) 2018-2025 Icelandic Institute for Intelligent Machines
-//_/_/ Copyright (c) 2021-2025 Leonard Eberding
+//_/_/ Copyright (c) 2018-2026 Jeff Thompson
+//_/_/ Copyright (c) 2018-2026 Kristinn R. Thorisson
+//_/_/ Copyright (c) 2018-2026 Icelandic Institute for Intelligent Machines
+//_/_/ Copyright (c) 2021-2026 Leonard Eberding
 //_/_/ http://www.iiim.is
 //_/_/
 //_/_/ --- Open-Source BSD License, with CADIA Clause v 1.0 ---
